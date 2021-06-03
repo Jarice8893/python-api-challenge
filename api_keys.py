@@ -9,3 +9,4 @@ weather_api_key= "fa78039af46aabd0a5a216dbe90f1919"
 #weather_api_key= "api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=fa78039af46aabd0a5a216dbe90f1919"
 
 
+g_key = "AIzaSyB8TRRhMy0QsKjaOJ9tOP11JRPmqETBTfA"
